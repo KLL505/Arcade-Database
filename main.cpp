@@ -61,7 +61,7 @@ void BreadthFirst()
 {
     int h = BST.getHeight();
     int i;
-    ofstream out("cidercade.dat");
+    ofstream out("cidercade_output.dat");
     for (i = 1; i <= h; i++)
         printLevel(BST.getRoot(), i, out);
     out.close(); 
