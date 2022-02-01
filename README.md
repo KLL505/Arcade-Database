@@ -21,6 +21,7 @@ Then the program will take an update file that can perform a variety of commands
 Command List:
 
 Add new game to database:
+
 Adds a brand new entry into the database. Called by using the command code 1 before the statement.
 The name is signified by encasing a string in quotation marks and all other elements being seperated by a space.
 
@@ -28,6 +29,7 @@ Format:
 1 "[NAME]" [HIGHSCORE] [INITIALS] [PLAYS] [REVENUE]
 
 Search database for name:
+
 Searches the database for an arcade game with the given name. If found, outputs all of the games information into the console.
 Called by using the command code 2 before the statement followed by a string of alphanumeric characters.
 
@@ -35,6 +37,7 @@ Format:
 2 [NAME]
 
 Update game entry:
+
 Searches the database for an arcade game with the given name. If found, updates the game information.
 Called by using the command code 3 before the statement followed by a string of alphanumeric characters enclosed in double quotations.
 then followed by a value repersenting which element to update and the updated value. 
