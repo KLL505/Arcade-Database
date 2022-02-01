@@ -2,7 +2,6 @@
 2 Donkey Kong
 2 Mouse Trap
 3 "Centipede" 1 999999
-3 "Frogger" 2 KLL
 5 asc
 5 des
 4 Mouse Trap
