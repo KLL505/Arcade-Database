@@ -41,6 +41,7 @@ then followed by a value repersenting which element to update and the updated va
 
 Format:
 3 "[NAME]" [1/2/3] [UPDATED VALUE]
+
  1- High score
  2- Initials
  3- Number of plays
