@@ -69,7 +69,7 @@ Format:
  Sort Database:
  
  Sorts the database alphabetically based off each arcade games name and pprints the output to the console. Called by using the command code 5
- before the statemnet followed by either asc or dec to sort the database in ascending order or decsending order respectively.
+ before the statemnet followed by either "asc" or "dec" to sort the database in ascending order or decsending order respectively.
  
  Format:
  
