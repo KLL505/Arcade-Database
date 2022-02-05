@@ -74,6 +74,8 @@ Format:
  Format:
  
  5 [asc/des]
- 
+
+
+*cidercade.dat is the sample data file and update1.txt is the sample update file provided to test this program
  
 
